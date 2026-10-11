@@ -2,6 +2,11 @@
 
 FarmConnect Backend is the Node.js, Express, and MariaDB/MySQL API for the FarmConnect agricultural marketplace. Farmers can publish produce listings, buyers can send inquiries and order requests, and admins can manage users, products, orders, and categories.
 
+# Things that I changed
+- I changed the database/schema.sql ,kines 1 and 2 from farmconnect to farmconnect_learning.
+- database/seed.sql ,line 1 changed to use farmconnect_learning;
+
+ 
 ## Tech Stack
 
 - Node.js and Express.js
